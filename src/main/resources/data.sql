@@ -1,0 +1,2 @@
+INSERT INTO balance VALUES (1, 1, 1000);
+INSERT INTO balance VALUES (2, 2, 1000);
